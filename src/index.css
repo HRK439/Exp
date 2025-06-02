@@ -1,6 +1,10 @@
 #dark{
-    padding: 800px 0;
+    padding: 300px 0;
     background-color: orange;
+}
+#darrker{
+    padding: 300px 0;
+    background-color: aqua;
 }
 svg {
     width: 28;
